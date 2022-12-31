@@ -3,13 +3,11 @@ import cv2
 import os
 import smtplib
 from email.message import EmailMessage
-import pywhatkit as pwk
-import time
 #------------------------------------------------------------------------------------------
-email_id = 'abdllaibrahimtest22@gmail.com'
-email_pass = 'aoocgwgricifzseh'
+email_id = '***************@gmail.com'
+email_pass = '###############'
 
-recipient_list = ['abdllaibrahim22@gmail.com']
+recipient_list = ['abdllaibrahim77@gmail.com']
 
 msg = EmailMessage()
 msg['Subject'] = 'Spy Detected'
